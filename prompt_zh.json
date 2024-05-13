@@ -1062,7 +1062,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-philosophy-teacher",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 76,
     "weight": 434
@@ -1076,7 +1076,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-philosopher",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 77,
     "weight": 1291
@@ -1090,7 +1090,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-socrat",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 78,
     "weight": 577
@@ -1104,7 +1104,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-socratic-method-prompt",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 79,
     "weight": 327
@@ -1118,7 +1118,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-the-buddha",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 80,
     "weight": 3270
@@ -1132,7 +1132,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-muslim-imam",
     "tags": [
-      "philosophy"
+      "哲学"
     ],
     "id": 81,
     "weight": 340
@@ -1146,7 +1146,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-math-teacher",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 82,
     "weight": 1548
@@ -1160,7 +1160,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-mathematical-history-teacher",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 83,
     "weight": 186
@@ -1174,7 +1174,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-mathematician",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 84,
     "weight": 282
@@ -1188,7 +1188,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-statistician",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 85,
     "weight": 530
@@ -1202,7 +1202,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-etymologist",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 86,
     "weight": 400
@@ -1216,7 +1216,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-historian",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 87,
     "weight": 970
@@ -1230,7 +1230,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-instructor-in-a-school",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 88,
     "weight": 731
@@ -1244,7 +1244,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-educational-content-creator",
     "tags": [
-      "academic"
+      "教学"
     ],
     "id": 89,
     "weight": 1815
@@ -2632,7 +2632,7 @@
     },
     "website": null,
     "tags": [
-      "contribute"
+      "贡献"
     ],
     "id": 187,
     "weight": 3763
@@ -3586,7 +3586,7 @@
     "website": null,
     "tags": [
       "贡献",
-      "academic"
+      "教学"
     ],
     "id": 252,
     "weight": 439
@@ -3660,7 +3660,7 @@
     "website": null,
     "tags": [
       "贡献",
-      "academic"
+      "教学"
     ],
     "id": 257,
     "weight": 927
