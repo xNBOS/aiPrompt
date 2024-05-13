@@ -8,7 +8,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-english-translator-and-improver",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 1,
     "weight": 16348
@@ -22,8 +22,8 @@
     },
     "website": null,
     "tags": [
-      "favorite",
-      "write"
+      "收藏夹",
+      "写作"
     ],
     "id": 2,
     "weight": 67324
@@ -37,7 +37,7 @@
     },
     "website": null,
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 3,
     "weight": 1648
@@ -51,8 +51,8 @@
     },
     "website": "https://learnprompting.org/docs/applied_prompting/short_response",
     "tags": [
-      "favorite",
-      "article"
+      "收藏夹",
+      "文章"
     ],
     "id": 4,
     "weight": 12864
@@ -66,7 +66,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-prompt-generator",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 5,
     "weight": 3611
@@ -80,7 +80,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-chatgpt-prompt-generator",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 6,
     "weight": 1869
@@ -94,7 +94,7 @@
     },
     "website": "https://learnprompting.org/docs/applied_prompting/short_response#automate-well-defined-prompt-rewriting-with-gpt-3",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 7,
     "weight": 5645
@@ -108,7 +108,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-title-generator-for-written-pieces",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 8,
     "weight": 6933
@@ -122,7 +122,7 @@
     },
     "website": null,
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 9,
     "weight": 7594
@@ -136,7 +136,7 @@
     },
     "website": "https://www.aleydasolis.com/en/search-engine-optimization/chatgpt-for-seo/",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 10,
     "weight": 3902
@@ -150,7 +150,7 @@
     },
     "website": null,
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 11,
     "weight": 10354
@@ -164,7 +164,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-aphorism-book",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 12,
     "weight": 1074
@@ -178,7 +178,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-ai-writing-tutor",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 13,
     "weight": 2403
@@ -192,7 +192,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-stand-up-comedian",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 14,
     "weight": 2416
@@ -206,7 +206,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-storyteller",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 15,
     "weight": 3815
@@ -220,7 +220,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-screenwriter",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 16,
     "weight": 2102
@@ -234,7 +234,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-novelist",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 17,
     "weight": 7366
@@ -248,7 +248,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-poet",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 18,
     "weight": 1999
@@ -262,7 +262,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-journalist",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 19,
     "weight": 2802
@@ -276,8 +276,8 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-academician",
     "tags": [
-      "favorite",
-      "article"
+      "收藏夹",
+      "文章"
     ],
     "id": 20,
     "weight": 19847
@@ -291,7 +291,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-essay-writer",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 21,
     "weight": 3170
@@ -305,7 +305,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-cover-letter",
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 22,
     "weight": 586
@@ -319,7 +319,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-commentariat",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 23,
     "weight": 1383
@@ -333,7 +333,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-movie-critic",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 24,
     "weight": 1652
@@ -347,7 +347,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-film-critic",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 25,
     "weight": 400
@@ -361,7 +361,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-tech-writer",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 26,
     "weight": 382
@@ -375,7 +375,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-tech-reviewer",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 27,
     "weight": 316
@@ -389,7 +389,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-food-critic",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 28,
     "weight": 439
@@ -403,7 +403,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-journal-reviewer",
     "tags": [
-      "comments"
+      "评论"
     ],
     "id": 29,
     "weight": 363
@@ -529,7 +529,7 @@
     },
     "website": "https://www.aleydasolis.com/en/search-engine-optimization/chatgpt-for-seo/",
     "tags": [
-      "seo"
+      "SEO"
     ],
     "id": 38,
     "weight": 641
@@ -543,7 +543,7 @@
     },
     "website": "https://www.aleydasolis.com/en/search-engine-optimization/chatgpt-for-seo/",
     "tags": [
-      "seo"
+      "SEO"
     ],
     "id": 39,
     "weight": 670
@@ -557,7 +557,7 @@
     },
     "website": "https://www.aleydasolis.com/en/search-engine-optimization/chatgpt-for-seo/",
     "tags": [
-      "seo"
+      "SEO"
     ],
     "id": 40,
     "weight": 1332
@@ -571,7 +571,7 @@
     },
     "website": "https://www.aleydasolis.com/en/search-engine-optimization/chatgpt-for-seo/",
     "tags": [
-      "seo"
+      "SEO"
     ],
     "id": 41,
     "weight": 9988
@@ -585,7 +585,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-self-help-book",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 42,
     "weight": 1175
@@ -599,7 +599,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-gnomist",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 43,
     "weight": 384
@@ -613,7 +613,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-emergency-response-professional",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 44,
     "weight": 253
@@ -627,7 +627,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-personal-shopper",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 45,
     "weight": 506
@@ -641,7 +641,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-career-counselor",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 46,
     "weight": 880
@@ -655,7 +655,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-life-coach-1",
     "tags": [
-      "life"
+      "生活"
     ],
     "id": 47,
     "weight": 719
@@ -669,7 +669,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-dream-interpreter",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 48,
     "weight": 2274
@@ -683,7 +683,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-astrologer",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 49,
     "weight": 2491
@@ -697,7 +697,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-character-from-moviebookanything",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 50,
     "weight": 1485
@@ -711,7 +711,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-spongebobs-magic-conch-shell",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 51,
     "weight": 635
@@ -725,7 +725,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-diy-expert",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 52,
     "weight": 351
@@ -739,7 +739,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-magician",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 53,
     "weight": 379
@@ -753,7 +753,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-artist-advisor",
     "tags": [
-      "interesting"
+      "有趣的"
     ],
     "id": 54,
     "weight": 443
@@ -767,7 +767,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-yogi",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 55,
     "weight": 274
@@ -781,7 +781,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-personal-trainer",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 56,
     "weight": 4948
@@ -795,7 +795,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-dietitian",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 57,
     "weight": 922
@@ -809,7 +809,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-personal-chef",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 58,
     "weight": 500
@@ -823,7 +823,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-chef",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 59,
     "weight": 351
@@ -837,7 +837,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-babysitter",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 60,
     "weight": 240
@@ -851,7 +851,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-makeup-artist",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 61,
     "weight": 321
@@ -865,7 +865,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-personal-stylist",
     "tags": [
-      "living"
+      "生活的"
     ],
     "id": 62,
     "weight": 488
@@ -879,8 +879,8 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-debater",
     "tags": [
-      "speech",
-      "mind"
+      "言论",
+      "心理"
     ],
     "id": 63,
     "weight": 2245
@@ -894,7 +894,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-fallacy-finder",
     "tags": [
-      "mind"
+      "心理"
     ],
     "id": 64,
     "weight": 518
@@ -908,7 +908,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-debate-coach",
     "tags": [
-      "speech"
+      "言论"
     ],
     "id": 65,
     "weight": 268
@@ -922,7 +922,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-elocutionist",
     "tags": [
-      "speech"
+      "言论"
     ],
     "id": 66,
     "weight": 790
@@ -936,7 +936,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-motivational-speaker",
     "tags": [
-      "speech"
+      "言论"
     ],
     "id": 67,
     "weight": 729
@@ -950,7 +950,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-motivational-coach",
     "tags": [
-      "speech"
+      "言论"
     ],
     "id": 68,
     "weight": 319
@@ -964,7 +964,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-public-speaking-coach",
     "tags": [
-      "speech"
+      "言论"
     ],
     "id": 69,
     "weight": 261
@@ -978,7 +978,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-life-coach",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 70,
     "weight": 456
@@ -992,7 +992,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-relationship-coach",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 71,
     "weight": 484
@@ -1006,7 +1006,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-friend",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 72,
     "weight": 814
@@ -1020,7 +1020,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-mental-health-adviser",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 73,
     "weight": 1590
@@ -1034,7 +1034,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-psychologist",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 74,
     "weight": 847
@@ -1048,7 +1048,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-gaslighter",
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 75,
     "weight": 2054
@@ -1258,7 +1258,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-stackoverflow-post",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 90,
     "weight": 13572
@@ -1272,7 +1272,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-senior-frontend-developer",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 91,
     "weight": 2106
@@ -1286,7 +1286,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-uxui-developer",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 92,
     "weight": 577
@@ -1300,7 +1300,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-web-design-consultant",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 93,
     "weight": 1370
@@ -1314,7 +1314,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-fullstack-software-developer",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 94,
     "weight": 2698
@@ -1328,7 +1328,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-architect",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 95,
     "weight": 2012
@@ -1342,7 +1342,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-cyber-security-specialist",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 96,
     "weight": 622
@@ -1356,7 +1356,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-software-quality-assurance-tester",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 97,
     "weight": 773
@@ -1370,7 +1370,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 98,
     "weight": 933
@@ -1384,7 +1384,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-smart-domain-name-generator",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 99,
     "weight": 446
@@ -1398,7 +1398,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-commit-message-generator",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 100,
     "weight": 490
@@ -1412,7 +1412,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-solr-search-engine",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 101,
     "weight": 818
@@ -1426,7 +1426,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-developer-relations-consultant",
     "tags": [
-      "code"
+      "代码"
     ],
     "id": 102,
     "weight": 319
@@ -1440,7 +1440,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-python-interpreter",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 103,
     "weight": 1128
@@ -1454,7 +1454,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-php-interpreter",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 104,
     "weight": 152
@@ -1468,7 +1468,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-r-programming-interpreter",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 105,
     "weight": 162
@@ -1482,7 +1482,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-linux-terminal",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 106,
     "weight": 711
@@ -1496,7 +1496,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-javascript-console",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 107,
     "weight": 278
@@ -1510,7 +1510,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-sql-terminal",
     "tags": [
-      "interpreter"
+      "翻译"
     ],
     "id": 108,
     "weight": 222
@@ -1524,8 +1524,8 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-midjourney-prompt-generator",
     "tags": [
-      "favorite",
-      "ai"
+      "收藏夹",
+      "AI 类"
     ],
     "id": 109,
     "weight": 22417
@@ -1539,7 +1539,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-unconstrained-ai-model-dan",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 110,
     "weight": 0
@@ -1553,7 +1553,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-ai-trying-to-escape-the-box",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 111,
     "weight": 351
@@ -1567,7 +1567,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-machine-learning-engineer",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 112,
     "weight": 1015
@@ -1581,7 +1581,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-language-detector",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 113,
     "weight": 186
@@ -1595,7 +1595,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-new-language-creator",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 114,
     "weight": 284
@@ -1609,7 +1609,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-password-generator",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 115,
     "weight": 244
@@ -1623,7 +1623,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-biblical-translator",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 116,
     "weight": 249
@@ -1637,7 +1637,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-morse-code-translator",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 117,
     "weight": 217
@@ -1651,7 +1651,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-emoji-translator",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 118,
     "weight": 383
@@ -1665,7 +1665,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-english-pronunciation-helper",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 119,
     "weight": 320
@@ -1679,7 +1679,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-spoken-english-teacher-and-improver",
     "tags": [
-      "pedagogy"
+      "教育"
     ],
     "id": 120,
     "weight": 1732
@@ -1693,7 +1693,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-japanese-kanji-quiz-machine",
     "tags": [
-      "language"
+      "语言"
     ],
     "id": 121,
     "weight": 226
@@ -1707,7 +1707,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-gomoku-player",
     "tags": [
-      "games"
+      "游戏"
     ],
     "id": 122,
     "weight": 3399
@@ -1721,7 +1721,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-tic-tac-toe-game",
     "tags": [
-      "games"
+      "游戏"
     ],
     "id": 123,
     "weight": 612
@@ -1735,7 +1735,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-chess-player",
     "tags": [
-      "games"
+      "游戏"
     ],
     "id": 124,
     "weight": 318
@@ -1749,7 +1749,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-text-based-adventure-game",
     "tags": [
-      "games"
+      "游戏"
     ],
     "id": 125,
     "weight": 1618
@@ -1763,7 +1763,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-travel-guide",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 126,
     "weight": 1017
@@ -1777,7 +1777,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-digital-art-gallery-guide",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 127,
     "weight": 111
@@ -1791,7 +1791,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-car-navigation-system",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 128,
     "weight": 237
@@ -1805,7 +1805,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-ascii-artist",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 129,
     "weight": 310
@@ -1819,7 +1819,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-svg-designer",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 130,
     "weight": 872
@@ -1833,7 +1833,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-fill-in-the-blank-worksheets-generator",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 131,
     "weight": 303
@@ -1847,7 +1847,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-excel-sheet",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 132,
     "weight": 2439
@@ -1861,7 +1861,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-diagram-generator",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 133,
     "weight": 442
@@ -1875,7 +1875,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-scientific-data-visualizer",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 134,
     "weight": 819
@@ -1889,7 +1889,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-web-browser",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 135,
     "weight": 409
@@ -1903,7 +1903,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-chemical-reaction-vessel",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 136,
     "weight": 250
@@ -1917,7 +1917,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-wikipedia-page",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 137,
     "weight": 745
@@ -1931,7 +1931,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-chief-executive-officer",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 138,
     "weight": 1329
@@ -1945,7 +1945,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-product-manager",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 139,
     "weight": 2384
@@ -1959,7 +1959,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-salesperson",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 140,
     "weight": 634
@@ -1973,7 +1973,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-advertiser",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 141,
     "weight": 1994
@@ -1987,7 +1987,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-startup-idea-generator",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 142,
     "weight": 2404
@@ -2001,7 +2001,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-social-media-manager",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 143,
     "weight": 396
@@ -2015,7 +2015,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-social-media-influencer",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 144,
     "weight": 614
@@ -2029,7 +2029,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-position-interviewer",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 145,
     "weight": 1542
@@ -2043,7 +2043,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-recruiter",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 146,
     "weight": 393
@@ -2057,7 +2057,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-talent-coach",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 147,
     "weight": 991
@@ -2071,7 +2071,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-fancy-title-generator",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 148,
     "weight": 311
@@ -2085,7 +2085,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-logistician",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 149,
     "weight": 228
@@ -2099,7 +2099,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-expert",
     "tags": [
-      "company"
+      "公司"
     ],
     "id": 150,
     "weight": 807
@@ -2113,7 +2113,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-virtual-doctor",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 151,
     "weight": 898
@@ -2127,7 +2127,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-doctor",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 152,
     "weight": 1672
@@ -2141,7 +2141,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-dentist",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 153,
     "weight": 396
@@ -2155,7 +2155,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-hypnotherapist",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 154,
     "weight": 367
@@ -2169,7 +2169,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-ai-assisted-doctor",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 155,
     "weight": 5252
@@ -2183,7 +2183,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-speech-language-pathologist-slp",
     "tags": [
-      "doctor"
+      "医生"
     ],
     "id": 156,
     "weight": 149
@@ -2197,7 +2197,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-accountant",
     "tags": [
-      "finance"
+      "财务"
     ],
     "id": 157,
     "weight": 917
@@ -2211,7 +2211,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-financial-analyst",
     "tags": [
-      "finance"
+      "财务"
     ],
     "id": 158,
     "weight": 2215
@@ -2225,7 +2225,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-investment-manager",
     "tags": [
-      "finance"
+      "财务"
     ],
     "id": 159,
     "weight": 3235
@@ -2239,7 +2239,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-composer",
     "tags": [
-      "music"
+      "音乐"
     ],
     "id": 160,
     "weight": 1318
@@ -2253,7 +2253,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-classical-music-composer",
     "tags": [
-      "music"
+      "音乐"
     ],
     "id": 161,
     "weight": 258
@@ -2267,7 +2267,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-rapper",
     "tags": [
-      "music"
+      "音乐"
     ],
     "id": 162,
     "weight": 977
@@ -2281,7 +2281,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-song-recommender",
     "tags": [
-      "music"
+      "音乐"
     ],
     "id": 163,
     "weight": 1029
@@ -2295,7 +2295,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-football-commentator",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 164,
     "weight": 232
@@ -2309,7 +2309,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-florist",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 165,
     "weight": 221
@@ -2323,7 +2323,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-tea-taster",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 166,
     "weight": 345
@@ -2337,7 +2337,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-interior-decorator",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 167,
     "weight": 861
@@ -2351,7 +2351,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-pet-behaviorist",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 168,
     "weight": 409
@@ -2365,7 +2365,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-an-automobile-mechanic",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 169,
     "weight": 373
@@ -2379,7 +2379,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-real-estate-agent",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 170,
     "weight": 433
@@ -2393,7 +2393,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-legal-advisor",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 171,
     "weight": 2755
@@ -2407,7 +2407,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-startup-tech-lawyer",
     "tags": [
-      "professional"
+      "专业"
     ],
     "id": 172,
     "weight": 682
@@ -2421,8 +2421,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 173,
     "weight": 6199
@@ -2436,8 +2436,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "language"
+      "贡献",
+      "语言"
     ],
     "id": 174,
     "weight": 172
@@ -2451,8 +2451,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 175,
     "weight": 893
@@ -2466,8 +2466,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 176,
     "weight": 1954
@@ -2481,8 +2481,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 177,
     "weight": 4544
@@ -2496,8 +2496,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 178,
     "weight": 753
@@ -2511,8 +2511,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "games"
+      "贡献",
+      "游戏"
     ],
     "id": 179,
     "weight": 894
@@ -2526,8 +2526,8 @@
     },
     "website": "https://github.com/rockbenben/ChatGPT-Shortcut/discussions/11#discussioncomment-5274073",
     "tags": [
-      "contribute",
-      "language"
+      "贡献",
+      "语言"
     ],
     "id": 180,
     "weight": 12802
@@ -2541,8 +2541,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "language"
+      "贡献",
+      "语言"
     ],
     "id": 181,
     "weight": 2705
@@ -2556,9 +2556,9 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind",
-      "pedagogy"
+      "贡献",
+      "心理",
+      "教育"
     ],
     "id": 182,
     "weight": 1700
@@ -2572,8 +2572,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 183,
     "weight": 362
@@ -2587,8 +2587,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 184,
     "weight": 1037
@@ -2602,8 +2602,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "ai"
+      "贡献",
+      "AI 类"
     ],
     "id": 185,
     "weight": 66598
@@ -2617,8 +2617,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 186,
     "weight": 433
@@ -2646,8 +2646,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 188,
     "weight": 1497
@@ -2661,8 +2661,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 189,
     "weight": 963
@@ -2676,8 +2676,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "ai"
+      "贡献",
+      "AI 类"
     ],
     "id": 190,
     "weight": 2295
@@ -2691,8 +2691,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 191,
     "weight": 2251
@@ -2706,8 +2706,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 192,
     "weight": 1101
@@ -2721,8 +2721,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 193,
     "weight": 912
@@ -2736,8 +2736,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "social"
+      "贡献",
+      "社交"
     ],
     "id": 194,
     "weight": 1325
@@ -2751,8 +2751,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "speech"
+      "贡献",
+      "言论"
     ],
     "id": 195,
     "weight": 1891
@@ -2766,8 +2766,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 196,
     "weight": 8412
@@ -2781,9 +2781,9 @@
     },
     "website": null,
     "tags": [
-      "favorite",
-      "contribute",
-      "write"
+      "收藏夹",
+      "贡献",
+      "写作"
     ],
     "id": 197,
     "weight": 22199
@@ -2797,8 +2797,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "article"
+      "贡献",
+      "文章"
     ],
     "id": 198,
     "weight": 832
@@ -2812,9 +2812,9 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "social",
-      "favorite"
+      "贡献",
+      "社交",
+      "收藏夹"
     ],
     "id": 199,
     "weight": 16666
@@ -2828,8 +2828,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 200,
     "weight": 2703
@@ -2843,8 +2843,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "tool"
+      "贡献",
+      "工具"
     ],
     "id": 201,
     "weight": 554
@@ -2858,8 +2858,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 202,
     "weight": 1143
@@ -2873,8 +2873,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 203,
     "weight": 738
@@ -2888,8 +2888,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 204,
     "weight": 12759
@@ -2903,8 +2903,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 205,
     "weight": 2605
@@ -2918,8 +2918,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 206,
     "weight": 8241
@@ -2933,7 +2933,7 @@
     },
     "website": null,
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 207,
     "weight": 450
@@ -2947,7 +2947,7 @@
     },
     "website": null,
     "tags": [
-      "social"
+      "社交"
     ],
     "id": 208,
     "weight": 427
@@ -2961,8 +2961,8 @@
     },
     "website": null,
     "tags": [
-      "favorite",
-      "write"
+      "收藏夹",
+      "写作"
     ],
     "id": 209,
     "weight": 46586
@@ -2976,7 +2976,7 @@
     },
     "website": null,
     "tags": [
-      "article"
+      "文章"
     ],
     "id": 210,
     "weight": 5549
@@ -2990,7 +2990,7 @@
     },
     "website": null,
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 211,
     "weight": 921
@@ -3004,8 +3004,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "social"
+      "贡献",
+      "社交"
     ],
     "id": 212,
     "weight": 4913
@@ -3019,8 +3019,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "comments"
+      "贡献",
+      "评论"
     ],
     "id": 213,
     "weight": 573
@@ -3034,8 +3034,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "article"
+      "贡献",
+      "文章"
     ],
     "id": 214,
     "weight": 5080
@@ -3049,7 +3049,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-note-taking-assistant",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 215,
     "weight": 1114
@@ -3063,7 +3063,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-a-language-literary-critic",
     "tags": [
-      "comments",
+      "评论",
       "text"
     ],
     "id": 216,
@@ -3078,8 +3078,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "doctor"
+      "贡献",
+      "医生"
     ],
     "id": 217,
     "weight": 3209
@@ -3093,8 +3093,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 218,
     "weight": 10771
@@ -3108,8 +3108,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "games"
+      "贡献",
+      "游戏"
     ],
     "id": 219,
     "weight": 5771
@@ -3123,8 +3123,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "tool"
+      "贡献",
+      "工具"
     ],
     "id": 220,
     "weight": 4461
@@ -3138,7 +3138,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 221,
     "weight": 1975
@@ -3152,7 +3152,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 222,
     "weight": 2073
@@ -3166,7 +3166,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 223,
     "weight": 280
@@ -3180,7 +3180,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 224,
     "weight": 4144
@@ -3194,7 +3194,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 225,
     "weight": 143
@@ -3208,7 +3208,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 226,
     "weight": 395
@@ -3222,7 +3222,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 227,
     "weight": 163
@@ -3236,7 +3236,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 228,
     "weight": 841
@@ -3250,7 +3250,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 229,
     "weight": 292
@@ -3264,7 +3264,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 230,
     "weight": 0
@@ -3278,7 +3278,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 231,
     "weight": 0
@@ -3292,7 +3292,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 232,
     "weight": 12336
@@ -3306,7 +3306,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 233,
     "weight": 1230
@@ -3320,7 +3320,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 234,
     "weight": 9265
@@ -3334,7 +3334,7 @@
     },
     "website": "https://github.com/0xk1h0/ChatGPT_DAN",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 235,
     "weight": 558
@@ -3348,8 +3348,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 236,
     "weight": 1170
@@ -3363,8 +3363,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "games"
+      "贡献",
+      "游戏"
     ],
     "id": 237,
     "weight": 1379
@@ -3378,7 +3378,7 @@
     },
     "website": "https://www.playpcesor.com/2023/03/chatgpt-2.html",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 238,
     "weight": 3258
@@ -3392,7 +3392,7 @@
     },
     "website": "https://www.playpcesor.com/2023/03/chatgpt-2.html",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 239,
     "weight": 1054
@@ -3406,7 +3406,7 @@
     },
     "website": "https://www.playpcesor.com/2023/03/chatgpt-2.html",
     "tags": [
-      "write"
+      "写作"
     ],
     "id": 240,
     "weight": 601
@@ -3420,9 +3420,9 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "social",
-      "company"
+      "贡献",
+      "社交",
+      "公司"
     ],
     "id": 241,
     "weight": 1416
@@ -3436,7 +3436,7 @@
     },
     "website": null,
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 242,
     "weight": 3249
@@ -3450,8 +3450,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "comments"
+      "贡献",
+      "评论"
     ],
     "id": 243,
     "weight": 1127
@@ -3465,8 +3465,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "tool"
+      "贡献",
+      "工具"
     ],
     "id": 244,
     "weight": 362
@@ -3480,8 +3480,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "tool"
+      "贡献",
+      "工具"
     ],
     "id": 245,
     "weight": 564
@@ -3495,8 +3495,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "code"
+      "贡献",
+      "代码"
     ],
     "id": 246,
     "weight": 409
@@ -3510,8 +3510,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 247,
     "weight": 337
@@ -3525,8 +3525,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 248,
     "weight": 524
@@ -3540,8 +3540,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 249,
     "weight": 229
@@ -3555,8 +3555,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 250,
     "weight": 1031
@@ -3570,8 +3570,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "article"
+      "贡献",
+      "文章"
     ],
     "id": 251,
     "weight": 14917
@@ -3585,7 +3585,7 @@
     },
     "website": null,
     "tags": [
-      "contribute",
+      "贡献",
       "academic"
     ],
     "id": 252,
@@ -3600,8 +3600,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "article"
+      "贡献",
+      "文章"
     ],
     "id": 253,
     "weight": 1732
@@ -3615,8 +3615,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "company"
+      "贡献",
+      "公司"
     ],
     "id": 254,
     "weight": 824
@@ -3630,7 +3630,7 @@
     },
     "website": "https://sc83ykpdyf.feishu.cn/docx/ZVgBdo0zAoFi9IxANh6cXlNKnsh",
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 255,
     "weight": 1559
@@ -3644,8 +3644,8 @@
     },
     "website": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main",
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 256,
     "weight": 6523
@@ -3659,7 +3659,7 @@
     },
     "website": null,
     "tags": [
-      "contribute",
+      "贡献",
       "academic"
     ],
     "id": 257,
@@ -3674,8 +3674,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 258,
     "weight": 1025
@@ -3689,8 +3689,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 259,
     "weight": 1119
@@ -3704,8 +3704,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 260,
     "weight": 355
@@ -3719,8 +3719,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 261,
     "weight": 779
@@ -3734,8 +3734,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 262,
     "weight": 879
@@ -3749,8 +3749,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 263,
     "weight": 335
@@ -3764,8 +3764,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "games"
+      "贡献",
+      "游戏"
     ],
     "id": 264,
     "weight": 1587
@@ -3779,8 +3779,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 265,
     "weight": 956
@@ -3794,8 +3794,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "ai"
+      "贡献",
+      "AI 类"
     ],
     "id": 266,
     "weight": 3515
@@ -3809,8 +3809,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "tool"
+      "贡献",
+      "工具"
     ],
     "id": 267,
     "weight": 1622
@@ -3824,8 +3824,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "language"
+      "贡献",
+      "语言"
     ],
     "id": 268,
     "weight": 165
@@ -3839,8 +3839,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "interesting"
+      "贡献",
+      "有趣的"
     ],
     "id": 269,
     "weight": 694
@@ -3854,8 +3854,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 270,
     "weight": 870
@@ -3869,8 +3869,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 271,
     "weight": 598
@@ -3884,8 +3884,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "language"
+      "贡献",
+      "语言"
     ],
     "id": 272,
     "weight": 394
@@ -3899,8 +3899,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "mind"
+      "贡献",
+      "心理"
     ],
     "id": 273,
     "weight": 621
@@ -3914,8 +3914,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "pedagogy"
+      "贡献",
+      "教育"
     ],
     "id": 274,
     "weight": 594
@@ -3929,8 +3929,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "professional"
+      "贡献",
+      "专业"
     ],
     "id": 275,
     "weight": 849
@@ -3944,7 +3944,7 @@
     },
     "website": "https://github.com/f/awesome-chatgpt-prompts#act-as-cheap-travel-ticket-advisor",
     "tags": [
-      "tool"
+      "工具"
     ],
     "id": 276,
     "weight": 212
@@ -3958,8 +3958,8 @@
     },
     "website": null,
     "tags": [
-      "contribute",
-      "write"
+      "贡献",
+      "写作"
     ],
     "id": 277,
     "weight": 1949
@@ -3973,7 +3973,7 @@
     },
     "website": null,
     "tags": [
-      "ai"
+      "AI 类"
     ],
     "id": 278,
     "weight": 100
